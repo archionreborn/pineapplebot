@@ -1,2 +1,1 @@
-# pineapplebot
-Discord Bot for Pineapple.
+# the bot will be closed-source until further notice.

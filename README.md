@@ -1,1 +1,3 @@
-# the bot will be closed-source until further notice.
+# pnplebot
+
+## the bot will be closed-source until further notice.
